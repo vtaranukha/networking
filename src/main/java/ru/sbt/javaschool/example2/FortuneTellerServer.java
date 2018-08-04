@@ -17,8 +17,6 @@ import static java.lang.System.*;
  * Created by Home on 01.02.2017.
  */
 
-// java -cp target/net.jar ru.sbt.javaschool.example2.FortuneTellerServer
-// java -cp target/net.jar ru.sbt.javaschool.example2.FortuneTellerClient
 public class FortuneTellerServer extends ChatBase {
 
     public static void main(String args[]){
